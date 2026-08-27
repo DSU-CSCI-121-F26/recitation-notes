@@ -9,7 +9,15 @@ read those carefully.
 
 ---
 
-## Index
+## Start here
+
+| | |
+|---|---|
+| 📅 **[Schedule, Readings & Due Dates](SCHEDULE.md)** | Every reading, lab, drill, quiz, and deadline for the whole semester, on one page. **Bookmark this.** |
+
+---
+
+## Recitation notes
 
 | # | Recitation | Topics |
 |---|---|---|
@@ -21,7 +29,23 @@ read those carefully.
 
 - Read the notes for a session **before** the next class — assignments are listed at the end of each file.
 - Every note ends with a **Quick Reference** section (git commands, terminal commands, glossary).
+- Deadlines live in **[SCHEDULE.md](SCHEDULE.md)**, not in the individual notes. If the two ever
+  disagree, the schedule is right.
 - Found a mistake or something unclear? Open an issue or a pull request on this repo.
+
+## The one thing that costs people points
+
+Committing saves your work **on your laptop**. Only `git push` makes it exist for me.
+
+```bash
+git status                      # run this constantly
+git add <file>
+git commit -m "what changed"
+git push                        # <- the one people forget
+```
+
+Then refresh the page on GitHub and *look at it*. The work is not done until you have seen it
+on the server.
 
 ## Repository
 
