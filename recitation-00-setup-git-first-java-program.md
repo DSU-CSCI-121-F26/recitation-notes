@@ -28,7 +28,7 @@ A fork is your own copy of a repository, living under your GitHub account, that 
 3. Leave the owner (your username) and repository name as-is.
 4. Click **Create fork**.
 
-The URL changes from `github.com/DSU-CSCI/recitation-00` to `github.com/your-username/recitation-00`. That's how you know it worked.
+The URL changes from `github.com/DSU-CSCI-121-F26/recitation-00` to `github.com/your-username/recitation-00`. That's how you know it worked.
 
 **Why forking matters:** the link back to upstream is a two-way street. You can pull my bug fixes and updates down into your fork, and you can propose your changes back to me through a **pull request**. That's how open source works, and it's how most professional teams handle outside contributors. We'll cover pull requests in detail later in the semester.
 
@@ -317,7 +317,7 @@ Every Java program starts here. This exact signature — commonly abbreviated **
 
 ```java
 public static void main(String[] args) {
-    System.out.println("Hello, world!");
+    System.out.println("Hello World!");
 }
 ```
 
@@ -341,7 +341,7 @@ Error: Main method not found in class Recitation00
 
 ---
 
-## 11. Assignment — Due Before Tomorrow's Class
+## 11. Assignment 00
 
 **Required:**
 
@@ -349,12 +349,35 @@ Error: Main method not found in class Recitation00
 2. Fork the `recitation-00` repository
 3. Clone your fork into `~/dev`
 4. Open it in IntelliJ
-5. Modify `main` to print `Hello, world!`
+5. Modify `main` to print `Hello World!` — **exactly that**, capital W, no comma, with the
+   exclamation mark. The test compares against that string character for character
 6. Run it and confirm the output
+7. **Push it.** See below — this is the step that makes it count
 
-**Optional / extra credit:** fork the Robocode Arena repo (linked in the recitation README). We'll work with it in class.
+**Optional / extra credit:** fork the [Robocode Arena repo](https://github.com/DSU-CSCI-121-F26/robocode-arena). No hardware needed, it runs all semester, and there is a tournament on the last day of class.
 
-Stuck on any of it? Bring it to class tomorrow — we'll fix it together, and it costs you nothing to arrive with a problem rather than a blank screen. We'll also cover `git add`, `git commit`, and `git push` tomorrow, so don't worry about submitting yet.
+### Handing it in
+
+We covered this in lecture on **Thursday Aug 27**. Committing saves your work on your laptop; only pushing makes it exist for me.
+
+```bash
+git status                        # run this constantly
+git add .
+git commit -m "Print Hello World"
+git push
+```
+
+Then **reload your repository page on GitHub and look at it.** The work is not done until you have seen it on the server.
+
+> **`push` will ask for a password, and your GitHub password will not work.** It has not worked since 2021. What it wants is a **Personal Access Token**:
+>
+> GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic) → Generate new token → check `repo` → Generate.
+>
+> **Copy it immediately — it is shown once and never again.** Paste it where Git asks for your password.
+>
+> If you get `Authentication failed`, that is what it is. Not your fork, not your clone. The token.
+
+Stuck on any of it? Bring it to section — it costs you nothing to arrive with a problem rather than a blank screen, and we will fix it together.
 
 ---
 

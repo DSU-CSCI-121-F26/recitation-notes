@@ -13,7 +13,7 @@ would make you edit it. More than one means it should probably be more than one 
 
 ---
 
-## Warm-up — `FleetManager`
+## Warm-up — `TicketOffice`
 
 List what it does:
 
@@ -50,11 +50,47 @@ From the BRACE diagram on screen, write these as plain-English sentences:
 
 ---
 
-## The bike share
+## Drawing it — draw.io
 
-> Bikes live at docking stations. A student unlocks a bike with their ID, rides it, and
-> returns it to any station. Bikes need maintenance after a set number of rides. Staff
-> need to know which stations are empty or full.
+**[app.diagrams.net](https://app.diagrams.net)** — nothing to install, no account needed.
+
+1. Left panel → **Shape Search** → type `class` → drag the three-compartment UML class shape
+   onto the canvas
+2. Double-click each compartment to fill it in
+
+```
+┌──────────────────────┐
+│       Ticket         │   ← name
+├──────────────────────┤
+│ - seat: String       │   ← state    ( - private,  + public )
+│ - scanned: boolean   │
+├──────────────────────┤
+│ + scan(): void       │   ← behavior
+└──────────────────────┘
+```
+
+**Saving it into your repo — the one step people get wrong:**
+
+> **File → Export as → PNG**, tick ☑ **"Include a copy of my diagram"**, save it next to
+> `design.md` as `diagram.drawio.png`
+
+That checkbox is what lets you re-open the PNG in draw.io later and keep editing. Without it
+you have a flat picture and no way back.
+
+Then add this one line to `design.md`:
+
+```markdown
+![Class diagram](diagram.drawio.png)
+```
+
+---
+
+## Selling tickets at a home game
+
+> Fans buy tickets for a game. Every ticket is for one specific seat in one section, and it
+> gets scanned once at a gate on the way in. Students pay less if they show a student ID.
+> Staff need to know how many seats are still unsold in each section, and how many people
+> are actually inside.
 
 **1. The objects.**
 
@@ -73,9 +109,12 @@ From the BRACE diagram on screen, write these as plain-English sentences:
 
 Which one: ______________________  Split it into: ______________________________
 
-**4. Draw two of them. Connect them with an arrow and label it in plain English.**
+**4. Now open draw.io.** Draw your best two, connect them with an arrow, and label the arrow
+in plain English.
 
-<br><br><br><br><br><br>
+> **Decide here, draw there.** Steps 1–3 stay on this page. Open the tool only when you know
+> what your objects are — otherwise you will spend the time moving boxes around instead of
+> thinking.
 
 ---
 
@@ -90,10 +129,18 @@ working directory ──add──▶ staging ──commit──▶ local repo �
 
 ```bash
 git status                                    # run this constantly
-git add design.md
-git commit -m "Add bike share class diagram"
+git add .                                     # BOTH files — the .md and the .png
+git commit -m "Add ticket sales class diagram"
 git push
 ```
+
+**`git add .`, not `git add design.md`.** You are committing two files now. Stage only the
+Markdown and your diagram will show up on GitHub as a broken image.
+
+**Drew it on your partner's laptop?** You each hand in your own repo, so you each need the
+PNG in your own. Send it to yourself — AirDrop, email, a shared drive — or export it a second
+time from their screen straight into your folder. Do this **now**, in class, not tonight when
+you no longer have their laptop.
 
 **When `push` asks for a password, your GitHub password will not work.** It wants a
 **Personal Access Token**:

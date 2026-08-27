@@ -1,6 +1,6 @@
 # CSCI-121 — Recitation Notes (Fall 2026)
 
-Student-facing notes from each recitation for **CSCI-121**, Dakota State University.
+Student-facing notes from each recitation for **CSCI-121**, Delaware State University.
 
 Each file is a self-contained write-up of what we covered in that session, plus corrections and
 clarifications on anything I explained quickly in the moment. Where a note is marked
@@ -23,6 +23,15 @@ read those carefully.
 | # | Recitation | Topics |
 |---|---|---|
 | 00 | [Setup, Git, and Your First Java Program](recitation-00-setup-git-first-java-program.md) | Class logistics, fork & clone, terminal commands, `~/dev` layout, twelve-factor app, TCP/UDP and application protocols, Maven & IntelliJ, classes and access modifiers, stack vs. heap, `public static void main`, Assignment 00 |
+
+---
+
+## Repositories you will need
+
+| | |
+|---|---|
+| **Recitation 0** | the link is in the recitation note below |
+| **Robocode Arena** *(optional, all semester)* | <https://github.com/DSU-CSCI-121-F26/robocode-arena> |
 
 ---
 

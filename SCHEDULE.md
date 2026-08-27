@@ -1,6 +1,6 @@
 # Schedule, Readings & Due Dates
 
-**CSCI-121 · Elements of Computer Programming II · Fall 2026 · Dakota State University**
+**CSCI-121 · Elements of Computer Programming II · Fall 2026 · Delaware State University**
 
 Everything graded this semester is on this page. A printable PDF of the same thing is handed
 out in class.
@@ -93,7 +93,7 @@ Lecture meets **Tue & Thu**. Section meets **Wed (R3)** or **Fri (R4)**.
 
 | Week | Read | Assigned this week | Due | Quiz / exam |
 |---|---|---|---|---|
-| **1**<br>Aug 24–28 | Ch 1 — orientation only | Recitation 0<br>Robocode arena *(optional, runs all term)* | Assignment 00 — **Thu Aug 27, in class** | — |
+| **1**<br>Aug 24–28 | Ch 1 — orientation only | Recitation 0<br>Robocode arena *(optional, runs all term)* | Assignment 00 — **Thu Aug 27, in class**<br>**Recitation 0 — Sun Aug 30** | — |
 | **2**<br>Aug 31–Sep 4 | Ch 2 · Ch 3 | **SB1** — input, output, variables, casting<br>Drills: Asterisks · Show me the Numbers | Drills — Sun Sep 6 | **Q1** — data types, operators, strings |
 | **3**<br>Sep 7–11 | Ch 11 · Ch 4 | **SB3** — defining classes, `PowerPill`<br>Drills: 3 or 5 · Multiples of 10 | **SB1** — Sun Sep 13<br>Drills — Sun Sep 13 | **Q2** — objects, fields, defaults |
 | **4**<br>Sep 14–18 | Ch 9 · Ch 10 | **SB4** — `Grok` eats `PowerPill`<br>Drills: Counting Smiles · Seeing Double | **SB3** — Sun Sep 20<br>Drills — Sun Sep 20 | — |
