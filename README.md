@@ -14,6 +14,7 @@ read those carefully.
 | | |
 |---|---|
 | 📅 **[Schedule, Readings & Due Dates](SCHEDULE.md)** | Every reading, lab, drill, quiz, and deadline for the whole semester, on one page. **Bookmark this.** |
+| 🎞️ **[Lecture Slides](lectures/)** | Every deck, by week, as PDFs that open right in the browser. |
 
 ---
 
