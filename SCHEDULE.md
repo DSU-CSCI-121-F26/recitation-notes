@@ -58,6 +58,7 @@ test.
 
 | | When | |
 |---|---|---|
+| **Labor Day** | **Mon Sep 7** | no class — **R3 section does not meet that week** |
 | **Exam 1** | **Tue Oct 13** | everything through state machines |
 | **Exam 2** | **Tue Nov 10** | arrays, inheritance, polymorphism |
 | **Code defence 1** | week of Sep 21 | in section · on SB3 or SB4 |
@@ -87,7 +88,7 @@ test.
 
 ## Week by week
 
-Lecture meets **Tue & Thu**. Section meets **Wed (R3)** or **Fri (R4)**.
+Lecture meets **Tue & Thu**. Section meets **Mon (R3)** or **Wed (R4)**.
 
 “Due” means **Sunday 11:59 PM at the end of that week** unless a date is written out.
 
@@ -95,7 +96,7 @@ Lecture meets **Tue & Thu**. Section meets **Wed (R3)** or **Fri (R4)**.
 |---|---|---|---|---|
 | **1**<br>Aug 24–28 | Ch 1 — orientation only | Recitation 0<br>Robocode arena *(optional, runs all term)* | Assignment 00 — **Thu Aug 27, in class**<br>**Recitation 0 — Sun Aug 30** | — |
 | **2**<br>Aug 31–Sep 4 | Ch 2 · Ch 3 | **SB1** — input, output, variables, casting<br>Drills: Asterisks · Show me the Numbers | Drills — Sun Sep 6 | **Q1** — data types, operators, strings |
-| **3**<br>Sep 7–11 | Ch 11 · Ch 4 | **SB3** — defining classes, `PowerPill`<br>Drills: 3 or 5 · Multiples of 10 | **SB1** — Sun Sep 13<br>Drills — Sun Sep 13 | **Q2** — objects, fields, defaults |
+| **3**<br>Sep 7–11<br>*R3: no section — Labor Day* | Ch 11 · Ch 4 | **SB3** — defining classes, `PowerPill`<br>Drills: 3 or 5 · Multiples of 10 | **SB1** — Sun Sep 13<br>Drills — Sun Sep 13 | **Q2** — objects, fields, defaults |
 | **4**<br>Sep 14–18 | Ch 9 · Ch 10 | **SB4** — `Grok` eats `PowerPill`<br>Drills: Counting Smiles · Seeing Double | **SB3** — Sun Sep 20<br>Drills — Sun Sep 20 | — |
 | **5**<br>Sep 21–25 | Ch 4 — revisit | **SB2** — static state and overloading<br>**AI audit**<br>**Code defence 1** — in section | **SB4** — Sun Sep 27 | **Q3** — methods, overloading, pass-by-value |
 | **6**<br>Sep 28–Oct 2 | Ch 5 · Ch 6<br>*enums are not in the book — lecture only* | **Enums lab**<br>Drills: Near and Far · Great Encryptor | **SB2** — Sun Oct 4<br>**AI audit** — Sun Oct 4<br>Drills — Sun Oct 4 | **Q4** — branching, loops, enums |
@@ -106,7 +107,7 @@ Lecture meets **Tue & Thu**. Section meets **Wed (R3)** or **Fri (R4)**.
 | **11**<br>Nov 2–6 | Ch 17.7 only<br>*polymorphism is lecture-only* | **SB7** — inheritance + interfaces<br>**Code defence 2** — in section | — | **Q6** — inheritance, polymorphism, interfaces |
 | **12**<br>Nov 9–13 | *None — exceptions are not in the book* | — | ⚠️ **SB7 — Mon Nov 9, 11:59 PM**<br>*the night before Exam 2* | 🔴 **EXAM 2 — Tue Nov 10** |
 | **13**<br>Nov 16–20 | *None — lecture only* | **Exceptions lab** — custom exception<br>*section: mock presentations, recorded* | — | **Q7** — exceptions |
-| **14**<br>Nov 23–27 | — | **Thanksgiving break — Wed–Fri Nov 25–27** | **Exceptions lab** — Sun Nov 29 | — |
+| **14**<br>Nov 23–27<br>*R3 meets Mon; R4 does not meet* | — | **Thanksgiving break — Wed–Fri Nov 25–27** | **Exceptions lab** — Sun Nov 29 | — |
 | **15**<br>Nov 30–Dec 4 | Ch 13 — `ArrayList` | *section: final presentations, recorded* | — | 🏆 **Robocode tournament — Thu Dec 3** |
 
 **Final exam — finals week, Dec 7–11.** The exact slot is set by the registrar and will be

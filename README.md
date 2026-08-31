@@ -22,7 +22,7 @@ read those carefully.
 
 | # | Recitation | Topics |
 |---|---|---|
-| 00 | [Setup, Git, and Your First Java Program](recitation-00-setup-git-first-java-program.md) | Class logistics, fork & clone, terminal commands, `~/dev` layout, twelve-factor app, TCP/UDP and application protocols, Maven & IntelliJ, classes and access modifiers, stack vs. heap, `public static void main`, Assignment 00 |
+| 01 | [Setup, Git, and Your First Java Program](recitation-01-setup-git-first-java-program.md) | Class logistics, fork & clone, terminal commands, `~/dev` layout, twelve-factor app, TCP/UDP and application protocols, Maven & IntelliJ, classes and access modifiers, stack vs. heap, `public static void main`, Assignment 00 |
 
 ---
 
@@ -31,6 +31,7 @@ read those carefully.
 | | |
 |---|---|
 | **Recitation 0** | the link is in the recitation note below |
+| **Recitation 2** | <https://github.com/DSU-CSCI-121-F26/recitation2> |
 | **Robocode Arena** *(optional, all semester)* | <https://github.com/DSU-CSCI-121-F26/robocode-arena> |
 
 ---

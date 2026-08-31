@@ -1,6 +1,6 @@
 # CSCI-121 · Week 1, Day 2
 
-**Name _______________________________  Section (circle):  R3 Wed  /  R4 Fri**
+**Name _______________________________  Section (circle):  R3 Mon  /  R4 Wed**
 
 ---
 

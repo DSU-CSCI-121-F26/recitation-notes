@@ -1,4 +1,4 @@
-# Recitation 00 — Setup, Git, and Your First Java Program
+# Recitation 01 — Setup, Git, and Your First Java Program
 
 **Student Notes**
 
