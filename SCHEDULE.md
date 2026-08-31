@@ -19,6 +19,21 @@ tracks whether you read it — it is a reference you look things up in, not a gr
 
 > **Do not buy a zyBooks code.** If the bookstore emailed you one, ignore it.
 
+**Some weeks list a section number, not a whole chapter** — like `§6.10` or `§9.3`. That is
+deliberate. This course teaches objects first and strings early; the book teaches strings
+inside its *loops* chapter and immutability four chapters after that. When the two orders
+disagree, you get the section, not the chapter, so you are not reading eighty pages to find
+one idea.
+
+Chapters open straight from the browser — no signup, nothing to install:
+
+| | |
+|---|---|
+| [Chapter 2 — Variables and Operators](https://books.trinket.io/thinkjava2/chapter2.html) | `5/2`, casting, `+` on strings |
+| [Chapter 3 — Input and Output](https://books.trinket.io/thinkjava2/chapter3.html) | `Scanner`, `printf`, **§3.7** type casts |
+| [Chapter 6 — Loops and Strings](https://books.trinket.io/thinkjava2/chapter6.html) | **§6.10** is `==` vs `.equals()` |
+| [Chapter 9 — Immutable Objects](https://books.trinket.io/thinkjava2/chapter9.html) | **§9.3** is why `s.toUpperCase()` alone does nothing |
+
 Five weeks list **no reading**. That is not an oversight — the book has no chapter on enums,
 state machines, exceptions, or `Map`. Those weeks are carried by lecture and by the lab.
 
@@ -103,7 +118,7 @@ Section meets **Mon (R3)** or **Wed (R4), 2:00–2:50 PM**.
 | Week | Read | Assigned this week | Due | Quiz / exam |
 |---|---|---|---|---|
 | **1**<br>Aug 24–28 | Ch 1 — orientation only | Recitation 0<br>Robocode arena *(optional, runs all term)* | Assignment 00 — **Thu Aug 27, in class**<br>**Recitation 0 — Sun Aug 30** | — |
-| **2**<br>Aug 31–Sep 4 | Ch 2 · Ch 3 | **Recitation 2** — Java for Python programmers *(started in section, finished at home)*<br>**SB1** — input, output, variables, casting<br>Drills: Asterisks · Show me the Numbers | **Recitation 2 — Sun Sep 6**<br>Drills — Sun Sep 6 | **Q1** — data types, operators, strings<br>**Thu Sep 3** |
+| **2**<br>Aug 31–Sep 4 | Ch 2 · Ch 3<br>**§6.10** *String Comparison*<br>**§9.3** *Strings Are Immutable* | **Recitation 2** — Java for Python programmers *(started in section, finished at home)*<br>**SB1** — input, output, variables, casting<br>Drills: Asterisks · Show me the Numbers | **Recitation 2 — Sun Sep 6**<br>Drills — Sun Sep 6 | **Q1** — data types, operators, strings<br>**Thu Sep 3** |
 | **3**<br>Sep 7–11<br>*R3: no section — Labor Day* | Ch 11 · Ch 4 | **SB3** — defining classes, `PowerPill`<br>Drills: 3 or 5 · Multiples of 10 | **SB1** — Sun Sep 13<br>Drills — Sun Sep 13 | **Q2** — objects, fields, defaults |
 | **4**<br>Sep 14–18 | Ch 9 · Ch 10 | **SB4** — `Grok` eats `PowerPill`<br>Drills: Counting Smiles · Seeing Double | **SB3** — Sun Sep 20<br>Drills — Sun Sep 20 | — |
 | **5**<br>Sep 21–25 | Ch 4 — revisit | **SB2** — static state and overloading<br>**AI audit**<br>**Code defence 1** — in section | **SB4** — Sun Sep 27 | **Q3** — methods, overloading, pass-by-value |
