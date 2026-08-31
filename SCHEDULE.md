@@ -88,7 +88,8 @@ test.
 
 ## Week by week
 
-Lecture meets **Tue & Thu**. Section meets **Mon (R3)** or **Wed (R4)**.
+Lecture meets **Tue & Thu, 3:00–4:15 PM** — the door closes at 3:05.
+Section meets **Mon (R3)** or **Wed (R4), 2:00–2:50 PM**.
 
 “Due” means **Sunday 11:59 PM at the end of that week** unless a date is written out.
 
