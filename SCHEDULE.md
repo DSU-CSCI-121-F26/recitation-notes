@@ -29,6 +29,12 @@ repo, so you always know where you stand before you submit.
 
 **Drills** are small — roughly 10–20 minutes each — and auto-graded.
 
+**Recitation repos** are started with me in section and **finished at home.** Section is
+fifty minutes and most of them hold more than fifty minutes of work — that is deliberate,
+not a miscalculation. What matters in the room is that you leave with it cloned, running,
+and pushed; the rest is yours to finish by Sunday. They count toward the **Recitation**
+10%, and like everything else they are graded from the pull request.
+
 Everything is handed in by **pushing to GitHub**. Committing saves your work on your laptop;
 only pushing makes it exist for me. *Committed is not submitted.*
 
@@ -59,6 +65,7 @@ test.
 | | When | |
 |---|---|---|
 | **Labor Day** | **Mon Sep 7** | no class — **R3 section does not meet that week** |
+| **Q1** | **Thu Sep 3** | in class, first 10 minutes |
 | **Exam 1** | **Tue Oct 13** | everything through state machines |
 | **Exam 2** | **Tue Nov 10** | arrays, inheritance, polymorphism |
 | **Code defence 1** | week of Sep 21 | in section · on SB3 or SB4 |
@@ -96,7 +103,7 @@ Section meets **Mon (R3)** or **Wed (R4), 2:00–2:50 PM**.
 | Week | Read | Assigned this week | Due | Quiz / exam |
 |---|---|---|---|---|
 | **1**<br>Aug 24–28 | Ch 1 — orientation only | Recitation 0<br>Robocode arena *(optional, runs all term)* | Assignment 00 — **Thu Aug 27, in class**<br>**Recitation 0 — Sun Aug 30** | — |
-| **2**<br>Aug 31–Sep 4 | Ch 2 · Ch 3 | **SB1** — input, output, variables, casting<br>Drills: Asterisks · Show me the Numbers | Drills — Sun Sep 6 | **Q1** — data types, operators, strings |
+| **2**<br>Aug 31–Sep 4 | Ch 2 · Ch 3 | **Recitation 2** — Java for Python programmers *(started in section, finished at home)*<br>**SB1** — input, output, variables, casting<br>Drills: Asterisks · Show me the Numbers | **Recitation 2 — Sun Sep 6**<br>Drills — Sun Sep 6 | **Q1** — data types, operators, strings<br>**Thu Sep 3** |
 | **3**<br>Sep 7–11<br>*R3: no section — Labor Day* | Ch 11 · Ch 4 | **SB3** — defining classes, `PowerPill`<br>Drills: 3 or 5 · Multiples of 10 | **SB1** — Sun Sep 13<br>Drills — Sun Sep 13 | **Q2** — objects, fields, defaults |
 | **4**<br>Sep 14–18 | Ch 9 · Ch 10 | **SB4** — `Grok` eats `PowerPill`<br>Drills: Counting Smiles · Seeing Double | **SB3** — Sun Sep 20<br>Drills — Sun Sep 20 | — |
 | **5**<br>Sep 21–25 | Ch 4 — revisit | **SB2** — static state and overloading<br>**AI audit**<br>**Code defence 1** — in section | **SB4** — Sun Sep 27 | **Q3** — methods, overloading, pass-by-value |
