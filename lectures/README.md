@@ -44,8 +44,8 @@ loops, it is deciding what should be an object at all.*
 > Fork it, run it, break it.
 >
 > **Start with the [Study Guide](https://github.com/DSU-CSCI-121-F26/lecture-week02-day1/blob/main/STUDY-GUIDE.md)**
-> — the lecture written up in the order we did it, **the corrections to things I said in the
-> room that were not quite right**, and the list of terms to study for Q1.
+> — the lecture written up in the order we did it, **the six traps where the obvious answer
+> is the wrong one**, and the list of terms to study for Q1.
 
 **Both handouts have a predict-then-run table.** Fill it in *before* the answer goes on the
 screen — being wrong on paper is free, and being wrong on Thursday's quiz is not.
