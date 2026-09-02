@@ -101,13 +101,13 @@ _______________________________________________________________________
 
 | | |
 |---|---|
-| **Q1 — Thursday**, 10 min, start of class, on paper, no notes | data types, operators, strings |
+| **Q1 — Tuesday Sep 8**, 10 min, start of class, on paper, no notes | data types, operators, strings |
 | **Recitation 2** — finish at home, push, open the PR | **Sun Sep 6, 11:59 PM** |
 | **Drills** — Asterisks · Show me the Numbers | **Sun Sep 6, 11:59 PM** |
 | **Skill Builder 1** | **Sun Sep 13, 11:59 PM** |
 | Reading — Think Java **Ch 2**, **Ch 3**, **§6.10**, **§9.3** | nothing tracks it; look things up |
 
-**Everything on Thursday's quiz is in Recitation 2.** If your tests are green, you have
+**Everything on Q1 is in Recitation 2** — and it is due two days before the quiz. If your tests are green, you have
 studied.
 
 ---

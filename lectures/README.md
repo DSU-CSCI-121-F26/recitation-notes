@@ -35,7 +35,7 @@ loops, it is deciding what should be an object at all.*
 | Day | Deck | Handout | Covered |
 |---|---|---|---|
 | **Tue Sep 1** | [Day 1 — What a Variable Actually Holds](week02/CSCI-121-Week2-Day1.pdf) | [handout](week02/handout-day1.md) · [print version](week02/handout-day1.pdf) | Static types · primitives vs references · the box-and-arrow model · **`==` vs `.equals()`** |
-| **Thu Sep 3** | *live-coded* | [handout](week02/handout-day2.md) · [print version](week02/handout-day2.pdf) | Strings · casting chops but formatting rounds · `javac` → `.class` → JVM · **Q1 in the first ten minutes** |
+| **Thu Sep 3** | *live-coded* | [handout](week02/handout-day2.md) · [print version](week02/handout-day2.pdf) | Strings · casting chops but formatting rounds · `javac` → `.class` → JVM · **no quiz — Q1 is Tue Sep 8** |
 
 > ### 📘 Day 1 — the code and the study guide
 >
@@ -48,7 +48,7 @@ loops, it is deciding what should be an object at all.*
 > is the wrong one**, and the list of terms to study for Q1.
 
 **Both handouts have a predict-then-run table.** Fill it in *before* the answer goes on the
-screen — being wrong on paper is free, and being wrong on Thursday's quiz is not.
+screen — being wrong on paper is free, and being wrong on Q1 is not.
 
 Day 1's last page is an **exit ticket you tear off and hand in**. Keep the rest.
 

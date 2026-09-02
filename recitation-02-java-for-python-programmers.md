@@ -255,9 +255,11 @@ The table from the board. This is the whole session on one page.
 | **Recitation 2** — finish the exercises, push, open the PR | **Sun Sep 6, 11:59 PM** |
 | **Drills** — Asterisks · Show me the Numbers | **Sun Sep 6, 11:59 PM** |
 | **Skill Builder 1** — input, output, variables, casting | **Sun Sep 13, 11:59 PM** |
-| **Q1** — data types, operators, strings | in class, **Thursday Sep 3** |
+| **Q1** — data types, operators, strings | in class, **Tuesday Sep 8** |
 
-**Q1 is Thursday, on paper, closed book, no AI, ten minutes at the start of class.**
+**Q1 is Tuesday Sep 8 — on paper, closed book, no AI, ten minutes at the start of class.**
+It sits two days after this repo is due, so the lab it is drawn from will be finished and
+submitted before you sit it.
 Every item on it is one of the eight ideas above. If you finished today with 42 green tests, you have
 already studied for it — read this page once more and you are done.
 

@@ -156,7 +156,7 @@ _______________________________________________________________________
 
 <br>
 
-**3.** One thing from Q1 you got wrong and now understand.
+**3.** One thing from Tuesday that makes more sense now than it did on Tuesday.
 
 <br>
 

@@ -80,7 +80,7 @@ test.
 | | When | |
 |---|---|---|
 | **Labor Day** | **Mon Sep 7** | no class — **R3 section does not meet that week** |
-| **Q1** | **Thu Sep 3** | in class, first 10 minutes |
+| **Q1** | **Tue Sep 8** | in class, first 10 minutes |
 | **Exam 1** | **Tue Oct 13** | everything through state machines |
 | **Exam 2** | **Tue Nov 10** | arrays, inheritance, polymorphism |
 | **Code defence 1** | week of Sep 21 | in section · on SB3 or SB4 |
@@ -118,8 +118,8 @@ Section meets **Mon (R3)** or **Wed (R4), 2:00–2:50 PM**.
 | Week | Read | Assigned this week | Due | Quiz / exam |
 |---|---|---|---|---|
 | **1**<br>Aug 24–28 | Ch 1 — orientation only | Recitation 0<br>Robocode arena *(optional, runs all term)* | Assignment 00 — **Thu Aug 27, in class**<br>**Recitation 0 — Sun Aug 30** | — |
-| **2**<br>Aug 31–Sep 4 | Ch 2 · Ch 3<br>**§6.10** *String Comparison*<br>**§9.3** *Strings Are Immutable* | **Recitation 2** — Java for Python programmers *(started in section, finished at home)*<br>**SB1** — input, output, variables, casting<br>Drills: Asterisks · Show me the Numbers | **Recitation 2 — Sun Sep 6**<br>Drills — Sun Sep 6 | **Q1** — data types, operators, strings<br>**Thu Sep 3** |
-| **3**<br>Sep 7–11<br>*R3: no section — Labor Day* | Ch 11 · Ch 4 | **SB3** — defining classes, `PowerPill`<br>Drills: 3 or 5 · Multiples of 10 | **SB1** — Sun Sep 13<br>Drills — Sun Sep 13 | **Q2** — objects, fields, defaults |
+| **2**<br>Aug 31–Sep 4 | Ch 2 · Ch 3<br>**§6.10** *String Comparison*<br>**§9.3** *Strings Are Immutable* | **Recitation 2** — Java for Python programmers *(started in section, finished at home)*<br>**SB1** — input, output, variables, casting<br>Drills: Asterisks · Show me the Numbers | **Recitation 2 — Sun Sep 6**<br>Drills — Sun Sep 6 | *none* — **Q1 moved to Tue Sep 8** |
+| **3**<br>Sep 7–11<br>*R3: no section — Labor Day* | Ch 11 · Ch 4 | **SB3** — defining classes, `PowerPill`<br>Drills: 3 or 5 · Multiples of 10 | **SB1** — Sun Sep 13<br>Drills — Sun Sep 13 | **Q1** — data types, operators, strings<br>**Tue Sep 8** |
 | **4**<br>Sep 14–18 | Ch 9 · Ch 10 | **SB4** — `Grok` eats `PowerPill`<br>Drills: Counting Smiles · Seeing Double | **SB3** — Sun Sep 20<br>Drills — Sun Sep 20 | — |
 | **5**<br>Sep 21–25 | Ch 4 — revisit | **SB2** — static state and overloading<br>**AI audit**<br>**Code defence 1** — in section | **SB4** — Sun Sep 27 | **Q3** — methods, overloading, pass-by-value |
 | **6**<br>Sep 28–Oct 2 | Ch 5 · Ch 6<br>*enums are not in the book — lecture only* | **Enums lab**<br>Drills: Near and Far · Great Encryptor | **SB2** — Sun Oct 4<br>**AI audit** — Sun Oct 4<br>Drills — Sun Oct 4 | **Q4** — branching, loops, enums |
