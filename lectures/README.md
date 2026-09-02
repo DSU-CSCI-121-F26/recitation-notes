@@ -27,15 +27,25 @@ loops, it is deciding what should be an object at all.*
 
 ## Week 2 · Aug 31–Sep 4 — Java for Python programmers
 
-> **There is no deck this week, and that is on purpose.** Both days are live-coded — Java
-> typed and run in front of you, which is the one thing a slide cannot do and the thing you
-> actually need coming from Python. The handouts below are what the lecture is built
-> around, so they carry more than usual. **Print one and bring it.**
+> **This week is live-coded.** Java typed and run in front of you, which is the one thing a
+> slide cannot do and the thing you actually need coming from Python. There are slides, but
+> they are a scaffold — **the code repo below is the real record of the lecture.** Print the
+> handout and bring it.
 
 | Day | Deck | Handout | Covered |
 |---|---|---|---|
-| **Tue Sep 1** | *live-coded* | [handout](week02/handout-day1.md) · [print version](week02/handout-day1.pdf) | Static types · primitives vs references · the box-and-arrow model · **`==` vs `.equals()`** |
+| **Tue Sep 1** | [Day 1 — What a Variable Actually Holds](week02/CSCI-121-Week2-Day1.pdf) | [handout](week02/handout-day1.md) · [print version](week02/handout-day1.pdf) | Static types · primitives vs references · the box-and-arrow model · **`==` vs `.equals()`** |
 | **Thu Sep 3** | *live-coded* | [handout](week02/handout-day2.md) · [print version](week02/handout-day2.pdf) | Strings · casting chops but formatting rounds · `javac` → `.class` → JVM · **Q1 in the first ten minutes** |
+
+> ### 📘 Day 1 — the code and the study guide
+>
+> Everything typed in Tuesday's lecture is in
+> **[DSU-CSCI-121-F26/lecture-week02-day1](https://github.com/DSU-CSCI-121-F26/lecture-week02-day1)**.
+> Fork it, run it, break it.
+>
+> **Start with the [Study Guide](https://github.com/DSU-CSCI-121-F26/lecture-week02-day1/blob/main/STUDY-GUIDE.md)**
+> — the lecture written up in the order we did it, **the corrections to things I said in the
+> room that were not quite right**, and the list of terms to study for Q1.
 
 **Both handouts have a predict-then-run table.** Fill it in *before* the answer goes on the
 screen — being wrong on paper is free, and being wrong on Thursday's quiz is not.
