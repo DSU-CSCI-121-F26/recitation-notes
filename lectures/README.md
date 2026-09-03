@@ -49,7 +49,12 @@ loops, it is deciding what should be an object at all.*
 
 > ### 💻 Day 2 — the deck is a transcript, not a replacement
 >
-> Thursday happened **in a terminal**. The dark panels in the Day 2 deck are exactly what
+> **It opens with a four-slide recap** — identity/state/behavior, the UML class box,
+> and what a variable actually holds. If you were lost on Tuesday, those four slides
+> are the ones to reread first; everything after them assumes the box-and-arrow
+> picture.
+>
+> The rest of Thursday happened **in a terminal**. The dark panels in the Day 2 deck are exactly what
 > those commands printed on the projector — `javac`, `xxd`, `javap -c`, `java Hello`, and
 > the `int x = "hi";` that fails to compile and therefore produces **no `.class` file at
 > all**. They are there so you can replay the sequence at home.
